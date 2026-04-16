@@ -1,6 +1,7 @@
 # Course Details
 
-**Course Name:** Programming Language - 2: C++ Programming  
+**Course Name:** Programming Language - 2: C++ Programming
+  
 **Professor:** Bajirao Salunke  
 
 ---
